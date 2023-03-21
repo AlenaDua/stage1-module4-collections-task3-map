@@ -64,11 +64,11 @@ three - 3
 
 ## 3. Function value finder
 
-Implement the program which gets `List<Integer>` and `required value` as parameter, creates `Map<Integer, Integer>` and
+[Implement the program which gets `List<Integer>` and `required value` as parameter, creates `Map<Integer, Integer>` and
 determines if `required value` is present among `Map values`.
 
 The `key of Map` - element from `List<Integer>`, `value` - value of function `5x+2` for element from `List<Integer>`
-
+]()
 ```
 public class FunctionValueFinder {
     public boolean isFunctionValuePresent(List<Integer> sourceList, int requiredValue){
